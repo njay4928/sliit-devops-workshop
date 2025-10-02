@@ -9,7 +9,7 @@ app.post("/add", (req, res) => {
   if (typeof a !== "number" || typeof b !== "number") {
     return res.status(400).json({ error: "Inputs must be numbers" });
   }
-  const result = a + b;
+  const result = a + b + 10;
   res.json({ result });
 });
 
