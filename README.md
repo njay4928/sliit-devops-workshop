@@ -37,7 +37,13 @@ The included test cases verify that the API works correctly for valid inputs and
    docker build -t demo-application .
    ```
 
-2. **Run the Docker container**
+2. **List the Docker images**
+
+   ```bash
+   docker images
+   ```
+
+3. **Run the Docker container**
    ```bash
    docker run -p 8080:8080 demo-application
    ```
