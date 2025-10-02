@@ -1,4 +1,3 @@
-// Simple Express API to add two numbers
 const express = require("express");
 const app = express();
 
@@ -9,7 +8,7 @@ app.post("/add", (req, res) => {
   if (typeof a !== "number" || typeof b !== "number") {
     return res.status(400).json({ error: "Inputs must be numbers" });
   }
-  const result = a + b + 10;
+  const result = a + b;
   res.json({ result });
 });
 
