@@ -1,0 +1,16 @@
+{
+  "name": "sliit-devops-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0",
+    "supertest": "^6.3.3"
+  }
+}
