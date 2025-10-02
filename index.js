@@ -1,3 +1,4 @@
+// Simple Express API to add two numbers
 const express = require("express");
 const app = express();
 
