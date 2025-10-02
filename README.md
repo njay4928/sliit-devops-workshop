@@ -8,6 +8,8 @@ The included test cases verify that the API works correctly for valid inputs and
 
 ## Steps to Follow
 
+### Run the Application with NPM
+
 1. **Install dependencies**
 
    ```bash
@@ -23,4 +25,19 @@ The included test cases verify that the API works correctly for valid inputs and
 3. **Start the application**
    ```bash
    npm start
+   ```
+
+---
+
+### Run the Application with Docker
+
+1. **Build the Docker image**
+
+   ```bash
+   docker build -t demo-application .
+   ```
+
+2. **Run the Docker container**
+   ```bash
+   docker run -p 8080:8080 demo-application
    ```
