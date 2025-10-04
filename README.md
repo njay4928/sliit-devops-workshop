@@ -153,7 +153,19 @@ We welcome contributions from students and educators! Please feel free to:
 - Improve documentation
 - Share additional resources
 
-## 📞 Support & Community
+## � Connect with Us
+
+Meet our workshop speakers and connect with them on LinkedIn:
+
+- **[Omantha Prasad](https://www.linkedin.com/in/omanthaprasad/)** - Workshop Speaker
+- **[Chamara Shalinda](https://www.linkedin.com/in/chamarashalinda/)** - Workshop Speaker
+- **[Navindu Jayatilake](https://www.linkedin.com/in/navindu-/)** - Workshop Speaker
+- **[Krishan Shamod](https://www.linkedin.com/in/krishanshamod/)** - Workshop Speaker
+- **[Madusanka Chandanamal](https://www.linkedin.com/in/chandanamal/)** - Workshop Speaker
+
+Feel free to reach out for questions, career advice, or networking opportunities!
+
+## �📞 Support & Community
 
 - 💬 Join our Discord/Slack community (link to be shared)
 - 📧 Email: [workshop-support@sliit.edu.lk](mailto:workshop-support@sliit.edu.lk)
